@@ -1,0 +1,82 @@
+
+.navbar {
+    background-color: purple;
+    font-size: 20px;
+    width: 960px;
+    height: 108px;
+    color: white;
+}
+
+
+.newName {
+    font-size: 50px;
+}
+a{
+    color: whitesmoke;
+}
+
+h1 {
+   background-color: purple;
+   color: whitesmoke;
+   font-size: 20px;
+   height: 20px;
+   box-align: right;
+   
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 25px;
+    padding: 25px; 
+
+}
+ul {
+    text-align: right;
+    text-emphasis-position: right;
+    margin: auto;
+    color: white;
+
+    
+}
+body  {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h2 {
+    color: purple;
+    text-align: auto;
+    margin: 10px;
+    font-size: 40px;
+    line-height: 70px;
+
+}
+p {
+    font-size: 20px;
+    margin: auto;
+    background-size: 700px;
+}
+
+img {
+    float: left;
+    margin:10px;
+    border:10px;
+  
+}
+
+div {
+    background-color: whitesmoke;
+    width: 960px;
+    margin: auto;
+    padding: 0px;
+
+    }
+    
+head {
+    background-color: turquoise;
+    color: white;
+    background-color: white;
+
+}
+.wraper {
+    height: 450px;
+}
